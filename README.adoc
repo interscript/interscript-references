@@ -1,0 +1,17 @@
+= Interscript: Reference documents
+
+//image:https://github.com/riboseinc/interscript/workflows/test/badge.svg["Build Status", link="https://github.com/riboseinc/interscript/actions?workflow=test"]
+
+== Introduction
+
+This repository contains reference documents for interoperable transliteration schemes for the https://github.com/riboseinc/interscript[interscript project].
+
+Some specifications that are subject to distribution limitations are not reproduced here.
+
+
+== License
+
+Copyright of every provided document belongs to its original owner; conditions may apply.
+
+Copyright Ribose.
+
